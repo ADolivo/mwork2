@@ -1,0 +1,9 @@
+* {
+      black-cl: #3d352a;
+      blue-cl: #6495ed;
+      white-cl: #ddccbb;
+      red-cl: #cd5c5c;
+      transparent: rgba(0,0,0,0);
+      font: "Source Code Pro 10";
+
+}
